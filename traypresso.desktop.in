@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Traypresso
+Comment=Keep your laptop awake from the tray
+Exec=python3 @APP_DIR@/traypresso.py
+Icon=traypresso
+Terminal=false
+Categories=Utility;
+X-GNOME-Autostart-enabled=true

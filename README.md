@@ -5,6 +5,10 @@
 
 Espresso in tray, for your laptop.
 
+<div align="center">
+  <img src="demo/demo.png" width="600" />
+</div>
+
 A small Linux tray app that keeps your laptop awake for a chosen amount of
 time, using `systemd-inhibit` under the hood.
 
